@@ -40,7 +40,8 @@ h1 {
 .login-conteiner {
     background: var(--font-01);
     width: 350px;
-    height: 420px;
+    height: 460px;
+    padding: 40px 0;
     display: flex;
     align-items: center;
     justify-content: center;
